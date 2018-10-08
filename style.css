@@ -1,0 +1,44 @@
+.p {
+ border: 3px solid black;
+}
+.header {
+	border: black 3px solid;
+	background-color: ##FFFFFF;
+	height: 150px;
+}
+
+.nav-bar {
+	border: black 2px solid;
+	background-color: #2E9AFE;
+	height: 70px;
+	width: 100%;
+}
+
+.clear-both {
+	clear: both;
+}
+
+.main-content {
+	background-color: #FFFFFF;
+	float: right;
+	width: 70%;
+}
+
+.product {
+	width: 29%;
+	float: left;
+	padding: 7px;
+	margin: 4px;
+}
+.coppy {
+	border: black 1px solid;
+	background-color: #2E9AFE;
+	padding: 5px 7px 25px 25px;
+	height: 20px;
+}
+
+.footer {
+	border: black 1px solid;
+	background-color: #BDBDBD;
+	height: 20px;
+}
